@@ -29,7 +29,6 @@ https://edgecaseresearch.atlassian.net/browse/NL-XXXX
 <!-- - [x] ~~This item does not apply~~ -->
 <!-- - [x] This item applies and is done -->
 <!-- - [ ] This item applies and is not done -->
-- [ ] I have **formatted**, **linted**, and **tested** these changes locally
 - [ ] I have made corresponding changes to the **documentation**
 - [ ] I have **added tests** that prove my fix is effective or that my feature works
 - [ ] I have **added Github labels and reviewers** to this PR that are appropriate for these changes
