@@ -35,7 +35,7 @@ https://edgecaseresearch.atlassian.net/browse/NL-XXXX
 - [ ] I have **reviewed my log statements and URLS** to ensure that [sensitive data](https://edgecaseresearch.atlassian.net/wiki/spaces/PG/pages/2475491349/Sensitive+Data+Review) is being handled properly
 
 ### TODOs:
-- [x] ~~Something still to address or areas of concern~~
+<!-- - [ ] Something still to address or areas of concern -->
 
 ### Reviewer Checklist
 - [ ] I have **reviewed log statements and URLS** to ensure that [sensitive data](https://edgecaseresearch.atlassian.net/wiki/spaces/PG/pages/2475491349/Sensitive+Data+Review) is being handled properly
